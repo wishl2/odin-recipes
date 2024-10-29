@@ -1,3 +1,3 @@
 # Project Overview
 
-This project
+This project involves creating a website for user recipes.
