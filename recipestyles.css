@@ -1,0 +1,24 @@
+h1 {
+    color: maroon;   
+    background-color: moccasin;
+}
+
+h2 {
+    color: dimgray;   
+    background-color: beige; 
+    font-weight: 700; 
+}
+
+p {
+    font-size: 16px; 
+    font-weight: 500;
+}
+
+li {
+    font-size: 14px; 
+    font-weight: 300;
+}
+
+.cooking-section {
+    background-color: lightgray;
+}
