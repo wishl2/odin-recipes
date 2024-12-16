@@ -2,13 +2,11 @@
     font-family: 'Brush Script MT', 'Lucida Handwriting', serif; 
 }
 
-h1 {
+.header {
     color: rebeccapurple;
     background-color: lavender;
+}  
+
+.yum-header {
+    color: seagreen; 
 }
-
-.link-section {
-    color: grey;
-}
-
-
