@@ -1,21 +1,23 @@
 .recipe-title {
-    color: maroon;   
+    color: maroon;
     background-color: moccasin;
 }
 
-.description-title, .ingredients-title, .steps-title {
-    color: dimgray;   
-    background-color: beige; 
-    font-weight: 700; 
+.description-title,
+.ingredients-title,
+.steps-title {
+    color: dimgray;
+    background-color: beige;
+    font-weight: 700;
 }
 
 .description {
-    font-size: 16px; 
+    font-size: 16px;
     font-weight: 500;
 }
 
 li {
-    font-size: 14px; 
+    font-size: 14px;
     font-weight: 300;
 }
 
